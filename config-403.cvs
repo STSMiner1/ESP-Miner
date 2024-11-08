@@ -1,7 +1,7 @@
 key,type,encoding,value
 main,namespace,,
 hostname,data,string,bitaxe
-wifissid,data,string,myssid
+wifissid,data,string,WiFi SETUP REQUIRED
 wifipass,data,string,password
 stratumurl,data,string,public-pool.io
 stratumport,data,u16,21496
