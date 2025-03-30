@@ -6,6 +6,7 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/9830d39ca088153c7db39a7c0e1645c62a0454fd.svg "Repobeats analytics image")
 
+Backup of 'dev-latest' branch
 
 # ESP-Miner
 esp-miner is open source ESP32 firmware for the [Bitaxe](https://github.com/skot/bitaxe)
