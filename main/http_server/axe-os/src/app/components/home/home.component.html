@@ -270,8 +270,8 @@
                                 </small>
                             </div>
                         </div>
-                        <strong class="text-red-500" *ngIf="info.voltage < (info.nominalVoltage + .5) * 0.87">
-                            Danger: Low Voltage
+                        <strong class="text-red-500" *ngIf="info.voltage <= (info.nominalVoltage > 8 ? 11.7 : 4.7)">
+                            Danger: Low Voltage, check your settings and PSU !!
                         </strong>
                     </div>
 
